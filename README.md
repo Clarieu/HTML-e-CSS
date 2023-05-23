@@ -5,4 +5,6 @@ E coloco o código para descrer a separação de grid em colunas para separa o c
 Também é  inserido o Título e descrição de  pagina em modelo fácil.
 E feito a estrutura para rodapé. 
 
-a entrega foi realizada por link google drive.
+a entrega foi realizada por link google drive com o caminho abaixo:
+"C:\Users\cllar\OneDrive\Downloads\Landpage HTML e CSS_1ª Thumbnail\1ª Landpage HTML CSS com thumbnail.html"
+
